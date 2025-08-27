@@ -1,0 +1,18 @@
+Image,Prediction,Confidence,Timestamp
+captured_20250827_201448.jpg,Clean,52.09,2025-08-27 20:47:54
+clean_bread.jpg,Clean,52.54,2025-08-27 20:47:54
+clean_bread1.jpg,Clean,87.68,2025-08-27 20:47:54
+clean_bread2.jpg,Clean,74.89,2025-08-27 20:47:55
+moldy_bread.jpg, Mold Detected,56.28,2025-08-27 20:47:55
+moldy_bread1.jpg, Mold Detected,67.81,2025-08-27 20:47:56
+moldy_bread2.jpg, Mold Detected,41.35,2025-08-27 20:47:57
+captured_20250827_201448.jpg,Clean,52.09,2025-08-27 20:59:13
+captured_20250827_201448.jpg,Clean,52.09,2025-08-27 20:59:46
+captured_20250827_201448.jpg,Clean,52.09,2025-08-27 21:00:10
+clean_bread.jpg,Clean,52.54,2025-08-27 21:00:10
+clean_bread1.jpg,Clean,87.68,2025-08-27 21:00:10
+clean_bread2.jpg,Clean,74.89,2025-08-27 21:00:10
+moldy_bread.jpg,Mold Detected,56.28,2025-08-27 21:00:10
+moldy_bread1.jpg,Mold Detected,67.81,2025-08-27 21:00:11
+moldy_bread2.jpg,Mold Detected,41.35,2025-08-27 21:00:11
+captured_20250827_201448.jpg,Clean,52.09,2025-08-27 21:04:08
